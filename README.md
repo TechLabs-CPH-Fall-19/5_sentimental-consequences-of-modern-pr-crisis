@@ -31,6 +31,7 @@ This is the repository for Project Group 5 - Sentimental consquences of modern P
 11. Here is some helpful tutorial on how to **structure Python projects**: 
 
    https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6 AND https://docs.python-guide.org/writing/structure/
+
 12. Get some insight of **how to plan programming projects**: 
     
     https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
