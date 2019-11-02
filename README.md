@@ -25,12 +25,15 @@ This is the repository for Project Group 5 - Sentimental consquences of modern P
    
    Go to *Settings* > *Collaborators* > Type in the username of your group members.
 9. **EVERYONE, clone the repository one of your group members created within VS Code** (see Tutorial from 6.)
+
 10. **Add the Repository Link to your Project Management Template**:
-   
-   Just copy and paste the link in the browser to the Project Management Template part under "Link to Github Repository".
+
+      Just copy and paste the link in the browser to the Project Management Template part under "Link to Github Repository".
+
 11. Here is some helpful tutorial on how to **structure Python projects**: 
 
-   https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6 AND https://docs.python-guide.org/writing/structure/
+      https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6 AND https://docs.python-guide.org/writing/structure/
+
 12. Get some insight of **how to plan programming projects**: 
     
     https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
