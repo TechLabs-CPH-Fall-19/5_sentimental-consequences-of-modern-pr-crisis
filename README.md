@@ -22,7 +22,7 @@ This is the repository for Project Group 5 - Sentimental consquences of modern P
    In case you want this step by step guide (you read right now) in your own repository, don't forget to have checked the box aboud   
    adding a README to your repository.
 8. **Add all your project group members to your repository as contributors**:
-
+   
    Go to *Settings* > *Collaborators* > Type in the username of your group members.
 9. **EVERYONE, clone the repository one of your group members created within VS Code** (see Tutorial from 6.)
 10. **Add the Repository Link to your Project Management Template**:
