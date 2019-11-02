@@ -19,7 +19,8 @@ This is the repository for Project Group 5 - Sentimental consquences of modern P
     https://www.youtube.com/watch?v=VOwyH2-VCVY
 7. **ONE of your project group members creates a new repository on his/her account** (see tutorial in 6.). 
 
-In case you want this step by step guide (you read right now) in your own repository, don't forget to have checked the box aboud adding a README to your repository.
+   In case you want this step by step guide (you read right now) in your own repository, don't forget to have checked the box aboud   
+   adding a README to your repository.
 8. **Add all your project group members to your repository as contributors**:
 
    Go to *Settings* > *Collaborators* > Type in the username of your group members.
