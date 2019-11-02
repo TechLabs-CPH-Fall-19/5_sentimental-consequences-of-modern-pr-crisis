@@ -26,7 +26,7 @@ This is the repository for Project Group 5 - Sentimental consquences of modern P
    Go to *Settings* > *Collaborators* > Type in the username of your group members.
 9. **EVERYONE, clone the repository one of your group members created within VS Code** (see Tutorial from 6.)
 
-10. **Add the Repository Link to your Project Management Template**:
+10. **Add the Repository Link to your Project Management Template** within the Project Instructions Document:
 
       Just copy and paste the link in the browser to the Project Management Template part under "Link to Github Repository".
 
